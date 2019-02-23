@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiStockSearch</string>
+    <string name="etSearch">Enter Symbol Here</string>
+</resources>
